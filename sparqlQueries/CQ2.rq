@@ -1,4 +1,4 @@
-PREFIX graph: <http://example.org/#>
+PREFIX graph: <http://example.org#>
 PREFIX vaem: <http://www.linkedmodel.org/schema/vaem#>
 PREFIX qudt: <http://qudt.org/schema/qudt#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
