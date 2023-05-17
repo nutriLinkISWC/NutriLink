@@ -7,4 +7,4 @@ The ontology contains three main parts:
 2. Product information from a food composition database (a relational database)
 3. Aggregated basket information 
 
-The ontology is stored in NutriLink.owl. The exemplary queries are stored in folder sparqlQueries.
+The ontology is stored in NutriLink.owl. The exemplary queries are stored in folder sparqlQueries. We replaced the actual URI with http://example.org
